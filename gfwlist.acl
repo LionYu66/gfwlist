@@ -5784,3 +5784,12 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
+
+#pixiv
+(^|\.)pixiv\.net$
+(^|\.)touch\.pixiv\.net$
+(^|\.)source\.pixiv\.net$
+(^|\.)accounts\.pixiv\.net$
+(^|\.)i1\.pixiv\.net$
+(^|\.)sketch\.pixiv\.net$
+(^|\.)i\.pximg\.net$
