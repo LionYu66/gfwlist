@@ -10,13 +10,6 @@
 #**********************************************************************
 [proxy_list]
 
-#自定义
-(^|\.)peekvids\.com$
-(^|\.)mega\.nz$
-(^|\.)dlapk4all\.com$
-(^|\.)ehgt\.org$
-(^|\.)ehviewer\.com$
-
 # MyList
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
@@ -107,6 +100,13 @@
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
 (^|\.)\w*youtube\w*\.\w*$
+
+#自定义
+(^|\.)peekvids\.com$
+(^|\.)mega\.nz$
+(^|\.)dlapk4all\.com$
+(^|\.)ehgt\.org$
+(^|\.)ehviewer\.com$
 
 #GFWList
 (^|\.)(.*)\.2\.bahamut\.com\.tw$
