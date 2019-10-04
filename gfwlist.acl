@@ -108,6 +108,7 @@
 (^|\.)ehgt\.org$
 (^|\.)ehviewer\.com$
 (^|\.)thisvid\.com$
+(^|\.)help\.twitter\.com$
 
 #GFWList
 (^|\.)(.*)\.2\.bahamut\.com\.tw$
