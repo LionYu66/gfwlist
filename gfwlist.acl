@@ -109,6 +109,26 @@
 (^|\.)ehviewer\.com$
 (^|\.)thisvid\.com$
 (^|\.)help\.twitter\.com$
+(^|\.)chat\.pixiv\.net$
+(^|\.)comic\.pixiv\.net$
+(^|\.)dev\.pixiv\.net$
+(^|\.)dic\.pixiv\.net$
+(^|\.)en\.dic\.pixiv\.net$
+(^|\.)factory\.pixiv\.net$
+(^|\.)festa\.pixiv\.net$
+(^|\.)genepixiv\.pr\.pixiv\.net$
+(^|\.)goods\.pixiv\.net$
+(^|\.)help\.pixiv\.net$
+(^|\.)i1\.pixiv\.net$
+(^|\.)inside\.pixiv\.net$
+(^|\.)iracon\.pixiv\.net$
+(^|\.)m\.pixiv\.net$
+(^|\.)matsuri\.pixiv\.net$
+(^|\.)p2\.pixiv\.net$
+(^|\.)pixiv\.net$
+(^|\.)recruit\.pixiv\.net$
+(^|\.)times\.pixiv\.net$
+(^|\.)touch\.pixiv\.net$
 
 #GFWList
 (^|\.)(.*)\.2\.bahamut\.com\.tw$
